@@ -5,7 +5,7 @@ keywords:
     - filtering
     - VCF
 tools:
-    - filter:
+    - bcftools:
         description: |
           Apply fixed-threshold filters to VCF files.
         homepage: http://samtools.github.io/bcftools/bcftools.html

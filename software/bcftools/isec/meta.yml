@@ -7,7 +7,7 @@ keywords:
     - complement
     - VCF
 tools:
-    - isec:
+    - bcftools:
         description: |
           Computes intersections, unions and complements of VCF files.
         homepage: http://samtools.github.io/bcftools/bcftools.html

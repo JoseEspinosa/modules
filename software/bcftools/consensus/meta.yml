@@ -5,7 +5,7 @@ keywords:
     - consensus
     - VCF
 tools:
-    - consensus:
+    - bcftools:
         description: |
           Create consensus sequence by applying VCF variants to a reference fasta file.
         homepage: http://samtools.github.io/bcftools/bcftools.html

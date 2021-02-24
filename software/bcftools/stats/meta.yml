@@ -5,7 +5,7 @@ keywords:
     - stats
     - VCF
 tools:
-    - stats:
+    - bcftools:
         description: |
           Parses VCF or BCF and produces text file stats which is suitable for
           machine processing and can be plotted using plot-vcfstats.
